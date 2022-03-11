@@ -4,6 +4,9 @@
   margin: 0;
 }
 
+span{
+  color: white;
+}
 
 .cabecalho {
   background-color: #222222;
